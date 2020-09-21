@@ -1,0 +1,12 @@
+C:\Users\Danie\OneDrive\Desktop\Epicodus\C#\sphinx\obj\Debug\netcoreapp2.2\Sphinx.csprojAssemblyReference.cache
+C:\Users\Danie\OneDrive\Desktop\Epicodus\C#\sphinx\obj\Debug\netcoreapp2.2\Sphinx.AssemblyInfoInputs.cache
+C:\Users\Danie\OneDrive\Desktop\Epicodus\C#\sphinx\obj\Debug\netcoreapp2.2\Sphinx.AssemblyInfo.cs
+C:\Users\Danie\OneDrive\Desktop\Epicodus\C#\sphinx\obj\Debug\netcoreapp2.2\Sphinx.csproj.CoreCompileInputs.cache
+C:\Users\Danie\OneDrive\Desktop\Epicodus\C#\sphinx\bin\Debug\netcoreapp2.2\Sphinx.deps.json
+C:\Users\Danie\OneDrive\Desktop\Epicodus\C#\sphinx\bin\Debug\netcoreapp2.2\Sphinx.runtimeconfig.json
+C:\Users\Danie\OneDrive\Desktop\Epicodus\C#\sphinx\bin\Debug\netcoreapp2.2\Sphinx.runtimeconfig.dev.json
+C:\Users\Danie\OneDrive\Desktop\Epicodus\C#\sphinx\bin\Debug\netcoreapp2.2\Sphinx.dll
+C:\Users\Danie\OneDrive\Desktop\Epicodus\C#\sphinx\bin\Debug\netcoreapp2.2\Sphinx.pdb
+C:\Users\Danie\OneDrive\Desktop\Epicodus\C#\sphinx\obj\Debug\netcoreapp2.2\Sphinx.dll
+C:\Users\Danie\OneDrive\Desktop\Epicodus\C#\sphinx\obj\Debug\netcoreapp2.2\Sphinx.pdb
+C:\Users\Danie\OneDrive\Desktop\Epicodus\C#\sphinx\obj\Debug\netcoreapp2.2\Sphinx.genruntimeconfig.cache
